@@ -1,10 +1,10 @@
 **Isabella Rodriguez**
 
-Role: Community Builder  
+Role: Game Developer  
 Location: Buenos Aires, Argentina  
 
-Bio: Organizing Base meetups.
+Bio: game developer passionate about growing the Base ecosystem and helping local communities.
 
-Story: The Sunrise Meetup
+Story: The First Win
 
-87 people attended the first meetup. Three new protocols were born that night.
+Built a cheap remittance tool. The first transaction sent money home in seconds instead of days, bringing tears of joy.
